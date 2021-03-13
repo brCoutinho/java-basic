@@ -26,3 +26,9 @@ interfaces/Trator.java
  interfaces.Trator
 interfaces/Veiculo.java
  interfaces.Veiculo
+enums/TipoVeiculo.java
+ enums.TipoVeiculo
+enums/Status.java
+ enums.Status
+enums/Programa.java
+ enums.Programa
