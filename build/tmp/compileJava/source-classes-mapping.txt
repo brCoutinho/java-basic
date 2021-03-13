@@ -14,3 +14,15 @@ statics/Cachorro.java
  statics.Cachorro
 statics/Programa.java
  statics.Programa
+interfaces/Programa.java
+ interfaces.Programa
+interfaces/Carro.java
+ interfaces.Carro
+interfaces/Celta.java
+ interfaces.Celta
+interfaces/Fiesta.java
+ interfaces.Fiesta
+interfaces/Trator.java
+ interfaces.Trator
+interfaces/Veiculo.java
+ interfaces.Veiculo
