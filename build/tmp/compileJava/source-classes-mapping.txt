@@ -32,3 +32,11 @@ enums/Status.java
  enums.Status
 enums/Programa.java
  enums.Programa
+strings/Strings.java
+ strings.Strings
+strings/StringFormat.java
+ strings.StringFormat
+strings/BuilderDeString.java
+ strings.BuilderDeString
+strings/ExercicioString.java
+ strings.ExercicioString
