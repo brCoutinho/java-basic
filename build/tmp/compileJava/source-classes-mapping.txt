@@ -38,5 +38,15 @@ strings/StringFormat.java
  strings.StringFormat
 strings/BuilderDeString.java
  strings.BuilderDeString
+condicionais/ifs/IF.java
+ condicionais.ifs.IF
 strings/ExercicioString.java
  strings.ExercicioString
+condicionais/operadores/Igualdade.java
+ condicionais.operadores.Igualdade
+condicionais/operadores/Relacionais.java
+ condicionais.operadores.Relacionais
+condicionais/operadores/Logicos.java
+ condicionais.operadores.Logicos
+condicionais/operadores/Incremento.java
+ condicionais.operadores.Incremento
