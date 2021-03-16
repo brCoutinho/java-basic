@@ -50,3 +50,7 @@ condicionais/operadores/Logicos.java
  condicionais.operadores.Logicos
 condicionais/operadores/Incremento.java
  condicionais.operadores.Incremento
+fors/For.java
+ fors.For
+whiles/While.java
+ whiles.While
