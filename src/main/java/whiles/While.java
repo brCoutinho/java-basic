@@ -11,7 +11,7 @@ public class While {
         }
 
         //Testa a condição depois
-        var y = 0;
+        var y   = 0;
 
         do{
             System.out.println(y);
