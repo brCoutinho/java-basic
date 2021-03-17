@@ -4,7 +4,7 @@ public class Carro {
     private String modelo;
     private String ano;
     private int quantidadePessoa;
-    
+
     public Carro(){
     }
 
