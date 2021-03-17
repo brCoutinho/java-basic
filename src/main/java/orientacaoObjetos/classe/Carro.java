@@ -4,7 +4,9 @@ public class Carro {
     private String modelo;
     private String ano;
     private int quantidadePessoa;
-
+    
+    public Carro(){
+    }
 
     public String getModelo() {
         return modelo;
