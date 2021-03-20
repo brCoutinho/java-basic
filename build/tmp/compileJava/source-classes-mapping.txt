@@ -58,3 +58,13 @@ orientacaoObjetos/classe/Carro.java
  orientacaoObjetos.classe.Carro
 orientacaoObjetos/classe/ProgramaCarro.java
  orientacaoObjetos.classe.ProgramaCarro
+orientacaoObjetos/exercicioPolimorfismo/Gerente.java
+ orientacaoObjetos.exercicioPolimorfismo.Gerente
+orientacaoObjetos/exercicioPolimorfismo/Atendente.java
+ orientacaoObjetos.exercicioPolimorfismo.Atendente
+orientacaoObjetos/exercicioPolimorfismo/Supervisor.java
+ orientacaoObjetos.exercicioPolimorfismo.Supervisor
+orientacaoObjetos/exercicioPolimorfismo/Funcionario.java
+ orientacaoObjetos.exercicioPolimorfismo.Funcionario
+orientacaoObjetos/exercicioPolimorfismo/Programa.java
+ orientacaoObjetos.exercicioPolimorfismo.Programa
