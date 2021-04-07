@@ -76,3 +76,9 @@ trabalhandoComDatas/javaDate/Exemplo003.java
  trabalhandoComDatas.javaDate.Exemplo003
 trabalhandoComDatas/javaDate/Exemplo004.java
  trabalhandoComDatas.javaDate.Exemplo004
+trabalhandoComDatas/javaCalendar/Exemplo005.java
+ trabalhandoComDatas.javaCalendar.Exemplo005
+trabalhandoComDatas/javaCalendar/ImprimindoData.java
+ trabalhandoComDatas.javaCalendar.ImprimindoData
+trabalhandoComDatas/javaCalendar/ExercicioCalendar.java
+ trabalhandoComDatas.javaCalendar.ExercicioCalendar
