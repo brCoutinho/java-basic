@@ -82,3 +82,9 @@ trabalhandoComDatas/javaCalendar/ImprimindoData.java
  trabalhandoComDatas.javaCalendar.ImprimindoData
 trabalhandoComDatas/javaCalendar/ExercicioCalendar.java
  trabalhandoComDatas.javaCalendar.ExercicioCalendar
+trabalhandoComDatas/javaDateFormat/FormatandoDatas.java
+ trabalhandoComDatas.javaDateFormat.FormatandoDatas
+trabalhandoComDatas/javaDateFormat/FormatandoComSimple.java
+ trabalhandoComDatas.javaDateFormat.FormatandoComSimple
+trabalhandoComDatas/javaDateFormat/ExercicioFormatacao.java
+ trabalhandoComDatas.javaDateFormat.ExercicioFormatacao
