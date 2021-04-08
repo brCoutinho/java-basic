@@ -100,3 +100,9 @@ trabalhandoComDatas/javaLocalDate/ExemploLocalDateTime.java
  trabalhandoComDatas.javaLocalDate.ExemploLocalDateTime
 trabalhandoComDatas/javaLocalDate/ExercicioLocalDateTime.java
  trabalhandoComDatas.javaLocalDate.ExercicioLocalDateTime
+arrays/ArraySimples.java
+ arrays.ArraySimples
+arrays/PercorrendoArray.java
+ arrays.PercorrendoArray
+arrays/ArrayMultidimensional.java
+ arrays.ArrayMultidimensional
